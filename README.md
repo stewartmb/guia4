@@ -77,7 +77,7 @@ Si desea modificar el código o correr las celdas usted mismo:
 
 2.  **Ejecute el Notebook:**
 
-      * Abra el archivo `Chicago_Crimes_EDA_Predictivo.ipynb` en su navegador.
+      * Abra el archivo `Data_Analitycs.ipynb` en su navegador.
       * Ejecute todas las celdas en orden: `Cell` -\> **`Run All`**.
 
 ### 3.2. Opción B: Visualizar los Resultados (Acceso Rápido)
